@@ -19,3 +19,5 @@ branch02に記述を追加
 mainに追記
 
 newbranch02に追記
+
+mainに追記2回目
