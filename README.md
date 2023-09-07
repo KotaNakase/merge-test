@@ -21,3 +21,5 @@ mainに追記
 newbranch02に追記
 
 mainに追記2回目
+
+newbranch02に追記2回目
