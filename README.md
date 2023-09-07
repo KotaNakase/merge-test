@@ -15,3 +15,5 @@ rebaseによる履歴の確認2回目
 mainに記述を追加
 
 branch02に記述を追加
+
+mainに追記
